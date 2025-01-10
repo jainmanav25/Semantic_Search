@@ -156,9 +156,3 @@ print(res["hits"]["hits"])
 - Adjust the Elasticsearch configuration and index mapping to suit your dataset if necessary.
 - If any errors occur during indexing, they will be printed to the console.
 
-## License
-This project is licensed under the MIT License. Feel free to use and modify it as needed.
-
----
-
-For questions or issues, please open an issue or contact the repository maintainer.
